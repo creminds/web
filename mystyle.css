@@ -48,7 +48,7 @@ h2 {
 img[src="founder.jpg"] {
     width: 100%;
     max-width: 300px;      /* SAME SIZE AS WEDDING IMAGES */
-    height: 450px;
+    height: 600px;
     display: block;
     margin: 20px auto;
     border-radius: 12px;
@@ -92,6 +92,7 @@ img[src="founder.jpg"] {
     transform: scale(1.05);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
+
 
 
 
